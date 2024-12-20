@@ -9,11 +9,12 @@ AI FEATURES
 - Keyboard Auto style ,grammar suggestions
 - Bixby Interpretor
 - Photo Assist
-- Real Time Translation op Phone
+- Real Time Translation on Phone
 - Samsung Notes Auto summarize
 - Samsung Browser
 - Drawing Assist
 - Voice Recorder auto translate
+- Circle to Search
 
 CAMERA FEATURES 
 - S23 Camera Post Processing and More Camera features
@@ -33,3 +34,18 @@ CAMERA FEATURES
 - Beauty Adjustments Remastered
 - 360 Mic Recording
 - High Bitrate Videos , HEVC etc more i cant remember
+- Flashlight while Ultra Wide Camera 
+
+ROM MODIFICATIONS
+- S24 Special Live Wallpapers with
+- S23 , S22 ,S20 , Z FOLD mixed Live Wallpapers in Wallpaper and Style app
+- App Lock Samsung Original
+- Extra Brightness , Adaptive Color Tone , Outdoor Mode
+- Adaptive Refresh Rate (30 to 120 hz ) on conditions to save battery power
+- Dual Messenger All Apps Clone
+- Gaming Mode PD Charger as main power source instead of battery for no heat gaming
+- Game FPS Control in Game Mode
+- OneUI7 Apps
+- Cached App Freezer , Google ANGEL GPU Driver
+- Spoofed Bootloader as locked
+- Added Enhanced Comfort & Anti Glare reduction
