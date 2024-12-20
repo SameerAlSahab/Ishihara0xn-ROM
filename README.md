@@ -1,8 +1,21 @@
 # Ishihara0xn-ROM
 IshiharaROM 6.1.1 Full Samsung AI S23 Port for Galaxy S20 and S20+ 
 
+AI FEATURES
+- Sketch to Art (6.1.1 Update New)
+- AI Generative Wallpapers
+- Photo Editor Object Move , Erase and Generate full work
+- No Crashes , same working like s23 series
+- Keyboard Auto style ,grammar suggestions
+- Bixby Interpretor
+- Photo Assist
+- Real Time Translation op Phone
+- Samsung Notes Auto summarize
+- Samsung Browser
+- Drawing Assist
+- Voice Recorder auto translate
 
-FEATURES 
+CAMERA FEATURES 
 - S23 Camera Post Processing and More Camera features
 - Added UHD (4K) 120 FPS Video Recording in Pro Video
 - Added 8K 30 FPS Instead of 8K 24 Too
