@@ -1,8 +1,8 @@
 # Ishihara0xn-ROM
 IshiharaROM 6.1.1 Full Samsung AI S23 Port for Galaxy S20 and S20+ 
-> **Note:** Unlocking Bootloader is required and Samsung knox will be tripped. ##
+> **Note:** Unlocking Bootloader is required and Samsung knox will be tripped. 
 
-##AI FEATURES
+## AI FEATURES
 - Sketch to Art (6.1.1 Update New)
 - AI Generative Wallpapers
 - Photo Editor Object Move , Erase and Generate full work
@@ -17,7 +17,7 @@ IshiharaROM 6.1.1 Full Samsung AI S23 Port for Galaxy S20 and S20+
 - Voice Recorder auto translate
 - Circle to Search
 
-##CAMERA FEATURES 
+## CAMERA FEATURES 
 - S23 Camera Post Processing and More Camera features
 - Added UHD (4K) 120 FPS Video Recording in Pro Video
 - Added 8K 30 FPS Instead of 8K 24 Too
@@ -37,7 +37,7 @@ IshiharaROM 6.1.1 Full Samsung AI S23 Port for Galaxy S20 and S20+
 - High Bitrate Videos , HEVC etc more i cant remember
 - Flashlight while Ultra Wide Camera 
 
-##ROM MODIFICATIONS
+## ROM MODIFICATIONS
 - S24 Special Live Wallpapers with
 - S23 , S22 ,S20 , Z FOLD mixed Live Wallpapers in Wallpaper and Style app
 - App Lock Samsung Original
@@ -53,7 +53,7 @@ IshiharaROM 6.1.1 Full Samsung AI S23 Port for Galaxy S20 and S20+
 - Screenshot Secure disabled
 - Added Voice Focus Modes from S23 (Spartial , Noisy place etc)
 
-##SECURITY
+## SECURITY
 - Spoofed bootloader to be locked on local attestations
 - Samsung Secure Folder Working
 - Samsung Private Share Working
