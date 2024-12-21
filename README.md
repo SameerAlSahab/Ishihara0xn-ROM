@@ -1,6 +1,7 @@
 # Ishihara0xn-ROM
 IshiharaROM 6.1.1 Full Samsung AI S23 Port for Galaxy S20 and S20+ 
-> **Note:** Unlocking Bootloader is required and Samsung knox will be tripped.
+> **Note:** Unlocking Bootloader is required and Samsung knox will be tripped. <
+
 ##AI FEATURES
 - Sketch to Art (6.1.1 Update New)
 - AI Generative Wallpapers
